@@ -25,7 +25,7 @@ performance, and plan for future growth with ease. Collaborate and make informed
 * Monitoring - Monitor your infrastructure
 * Incident/Response automation - Automate your infrastructure
 
-## 🕹 Compatibility
+### 🕹 Compatibility
 * Infrastructure-as-code
     
     * Terraform

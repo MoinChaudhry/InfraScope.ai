@@ -16,8 +16,7 @@
 * Introduce InfraScope.AI , a game-changing tool that simplifies infrastructure management by converting Infrastructure-as-code into a visual and interactive architecture. Enabling you to identify and troubleshoot issues, optimize
 performance, and plan for future growth with ease. Collaborate and make informed decisions faster with InfraScope.Al's user friendly interface.
 
-<br>
-<br>
+
 
 # Vision
 ## 🎨 Features

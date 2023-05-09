@@ -18,8 +18,8 @@ performance, and plan for future growth with ease. Collaborate and make informed
 
 
 
-# Vision
-## 🎨 Features
+## 👓 Vision
+### 🎨 Features
 
 * Visualization -  Visualizer your infrastructure
 * Monitoring - Monitor your infrastructure
@@ -39,7 +39,7 @@ performance, and plan for future growth with ease. Collaborate and make informed
     * Kubernetes
 
 
-## 🍞 Meet The Team
+### 🍞 Meet The Team
 
 - [Moin Chaudhry]()
 

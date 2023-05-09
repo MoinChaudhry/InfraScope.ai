@@ -41,7 +41,7 @@ performance, and plan for future growth with ease. Collaborate and make informed
 
 ### 🍞 Meet The Team
 
-- [Moin Chaudhry]()
+- [Moin Chaudhry](https://www.linkedin.com/in/moinhc/)
 
 
 ## 📜 License

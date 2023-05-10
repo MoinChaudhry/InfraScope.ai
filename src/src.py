@@ -1,12 +1,12 @@
 import os
 import glob
-
+import pprint
 
 def get_resources():
     resource_dict = {}
     parent_dir = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
     terraform_dir = os.path.join(parent_dir, "terraform")
-
+    pp = pprint.PrettyPrinter(indent=8)
     tf_files = glob.glob(os.path.join(terraform_dir, "*.tf"))
 
     for tf_file in tf_files:
@@ -29,6 +29,6 @@ def get_resources():
     print({"filename: [resources_type: ['resource_name']"})
     print("\n")
     for filename, resources in resource_dict.items():
-        print(f"{filename}: {resources}\n")
+        pp.pprint(f"{filename}: {resources}\n")
 
 get_resources()

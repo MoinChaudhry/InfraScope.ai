@@ -1,8 +1,10 @@
 <h1 align="center"> InfraScope.AI </h1> <br>
 <p align="center">
-https://img.shields.io/badge/Version-0.1-green
 <img src="assets/cropped-infrascopeai-high-resolution-color-logo.png" alt="Alt text" title="Optional title">
 </p>
+
+
+https://img.shields.io/badge/Version-0.1-green
 
 ## 🚩 Table of Contents
 

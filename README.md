@@ -1,5 +1,6 @@
 <h1 align="center"> InfraScope.AI </h1> <br>
 <p align="center">
+https://img.shields.io/badge/Version-0.1-green
 <img src="assets/cropped-infrascopeai-high-resolution-color-logo.png" alt="Alt text" title="Optional title">
 </p>
 
@@ -21,7 +22,7 @@ performance, and plan for future growth with ease. Collaborate and make informed
 ## 👓 Vision
 ### 🎨 Features
 
-* Visualization -  Visualizer your infrastructure
+* Visualization -  Visualize your infrastructure
 * Monitoring - Monitor your infrastructure
 * Incident/Response automation - Automate your infrastructure
 

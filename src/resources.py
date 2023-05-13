@@ -26,9 +26,8 @@ def get_resources():
 
         filename = os.path.basename(tf_file)
         resource_dict[filename] = resources
-    print({"filename: [resources_type: ['resource_name']"})
     print("\n")
     for filename, resources in resource_dict.items():
-        pp.pprint(f"{filename}: {resources}\n")
+        pp.pprint(f"{filename}: {resources}")
 
 get_resources()

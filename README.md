@@ -14,17 +14,15 @@
 
 
 ## 💥 About
-* Introduce InfraScope.AI , a game-changing tool that simplifies infrastructure management by converting Infrastructure-as-code into a visual and interactive architecture. Enabling you to identify and troubleshoot issues, optimize
-performance, and plan for future growth with ease. Collaborate and make informed decisions faster with InfraScope.Al's user friendly interface.
+* We are a startup dedicated to enabling and transforming infrastructure management with cutting-edge AI technology. Our mission is to revolutionize the way organizations document, monitor, analyze, and optimize their Cloud and Kubernetes assets.
+
 
 
 
 ## 👓 Vision
 ### 🎨 Features
 
-* Visualization -  Visualize your infrastructure
-* Monitoring - Monitor your infrastructure
-* Incident/Response automation - Automate your infrastructure
+* Details Coming Soon...............
 
 ### 🕹 Compatibility
 * Infrastructure-as-code
@@ -47,4 +45,4 @@ performance, and plan for future growth with ease. Collaborate and make informed
 
 ## 📜 License
 
-This software is licensed under the [MIT](https://github.com/nhn/tui.editor/blob/master/LICENSE) © [NHN Cloud](https://github.com/nhn).
+This software is licensed under the [MIT](https://github.com/nhn/tui.editor/blob/master/LICENSE)

@@ -1,6 +1,6 @@
 <h1 align="center"> InfraScope.AI </h1> <br>
 <p align="center">
-<img src="assets/cropped-infrascopeai-high-resolution-color-logo.png" alt="Alt text" title="Optional title">
+<img src="assets/infrascopeai-high-resolution-logo-black-on-white-background (1).png" alt="Alt text" title="Optional title">
 </p>
 
 
